@@ -1,0 +1,58 @@
+====================List of quads======================
+
+----------------Global symbol table-----------------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+printi	function	1		4	0	NULL
+prints	function	1		4	4	NULL
+readi	function	1		4	8	NULL
+f	function	1		0	12	NULL
+main	function	0		0	12	NULL
+----------------Symbol table of printi----------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+num	int		4	0	NULL
+retVal	int		4	4	NULL
+----------------Symbol table of prints----------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+c	char		1	0	NULL
+retVal		4	1	NULL
+----------------Symbol table of readi----------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+eP	int		4	0	NULL
+retVal	int		4	4	NULL
+----------------Symbol table of f----------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+a	int		4	0	NULL
+b	int		4	4	NULL
+t0	int		4	8	NULL
+t1	int		4	12	17
+t2	int		4	16	NULL
+retVal	int		4	20	NULL
+----------------Symbol table of main----------------
+Name	Type	Size	Offset	InitVal
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+a	int		4	0	NULL
+b	int		4	4	NULL
+e	*		8	8	NULL
+t3	int		4	16	54
+t4	int		8	20	NULL
+prints	int		4	28	NULL
+.LC0	int		4	32	NULL
+.LC1	int		4	36	NULL
+printi	int		4	40	NULL
+.LC2	int		4	44	NULL
+f	int		4	48	NULL
+.LC3	int		4	52	NULL
+.LC4	int		4	56	NULL
+.LC5	int		4	60	NULL
+.LC6	int		4	64	NULL
+readi	int		4	68	NULL
+.LC7	int		4	72	NULL
+.LC8	int		4	76	NULL
+t5	int		4	80	0
+retVal	int		4	84	NULL
+=========================================================

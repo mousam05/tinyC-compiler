@@ -1,0 +1,5 @@
+Limitations of the TinyC compiler:
+
+1. No variables must start with t as t0, t1 etc are used as compiler-generated temporaries in the TAC.
+
+NOTE: Pointer size has been assumed to be 8 bytes.
